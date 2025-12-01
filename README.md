@@ -18,13 +18,30 @@
 | Stat | Value |
 |------|-------|
 | **Version** | `0.2.1` |
-| **Last Update** | Nov 30, 2025 |
+| **Last Update** | Dec 1, 2025 |
 
 ---
 
 
 
 The Wiley Scraper is a web scraping tool that extracts publication data from wiley.com. It is useful for academic research, bibliometrics, competitive analysis, and anyone interested in analyzing academic publications and textbooks.
+
+
+## 💻 Integration Examples
+
+This repository includes example code showing how to integrate the `wiley-scraper` actor into your projects.
+
+You can find example implementations in the [`examples/`](./examples) folder:
+- **TypeScript/JavaScript**: See [`examples/typescript/`](./examples/typescript) for a complete TypeScript example
+- **Python**: See [`examples/python/`](./examples/python) for a complete Python example
+
+Each example includes:
+- Ready-to-use code templates
+- Setup instructions
+- Documentation links
+
+---
+
 
 ## Use Cases
 
